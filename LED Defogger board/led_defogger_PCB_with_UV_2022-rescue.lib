@@ -1,0 +1,78 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# DS18B20Z+-LibraryLoader-led_defogger_PCB_with_UV-rescue
+#
+DEF DS18B20Z+-LibraryLoader-led_defogger_PCB_with_UV-rescue IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "DS18B20Z+-LibraryLoader-led_defogger_PCB_with_UV-rescue" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/1901241" 950 0 50 H I L CNN
+F4 "DS18B20Z+, 12bit Temperature Sensor +/-2C Serial 3 to 5.5V 8-Pin SOIC" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "1901241" 950 -300 50 H I L CNN "RS Part Number"
+F7 "http://uk.rs-online.com/web/p/products/1901241" 950 -400 50 H I L CNN "RS Price/Stock"
+F8 "Maxim Integrated" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "DS18B20Z+" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+X NC 1 0 0 200 R 50 50 0 0 N
+X NC_1 2 0 -100 200 R 50 50 0 0 U
+X VDD 3 0 -200 200 R 50 50 0 0 W
+X DQ 4 0 -300 200 R 50 50 0 0 U
+X GND 5 1100 -300 200 L 50 50 0 0 W
+X NC_2 6 1100 -200 200 L 50 50 0 0 U
+X NC_3 7 1100 -100 200 L 50 50 0 0 U
+X NC_4 8 1100 0 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# NTMS4807NR2G-SamacSys_Parts
+#
+DEF NTMS4807NR2G-SamacSys_Parts Q 0 30 Y Y 1 F N
+F0 "Q" 850 300 50 H V L CNN
+F1 "NTMS4807NR2G-SamacSys_Parts" 850 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 850 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/NTMS4807N-D.PDF" 850 0 50 H I L CNN
+F4 "Power MOSFET" 850 -100 50 H I L CNN "Description"
+F5 "1.75" 850 -200 50 H I L CNN "Height"
+F6 "ON Semiconductor" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NTMS4807NR2G" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "863-NTMS4807NR2G" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTMS4807NR2G" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "NTMS4807NR2G" 850 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ntms4807nr2g/on-semiconductor" 850 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+P 5 0 1 6 200 100 800 100 800 -400 200 -400 200 100 N
+X S_1 1 0 0 200 R 50 50 0 0 P
+X S_2 2 0 -100 200 R 50 50 0 0 P
+X S_3 3 0 -200 200 R 50 50 0 0 P
+X G 4 0 -300 200 R 50 50 0 0 P
+X D_1 5 1000 -300 200 L 50 50 0 0 P
+X D_2 6 1000 -200 200 L 50 50 0 0 P
+X D_3 7 1000 -100 200 L 50 50 0 0 P
+X D_4 8 1000 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# OCU-400-UE365-X-T-LibraryLoader-led_defogger_PCB_with_UV-rescue
+#
+DEF OCU-400-UE365-X-T-LibraryLoader-led_defogger_PCB_with_UV-rescue IC 0 30 Y Y 1 F N
+F0 "IC" 650 300 50 H V L CNN
+F1 "OCU-400-UE365-X-T-LibraryLoader-led_defogger_PCB_with_UV-rescue" 650 200 50 H V L CNN
+F2 "OCU400UE365XT" 650 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/1736350P" 650 0 50 H I L CNN
+F4 "OCU-400-UE365-X-T OSA Opto, OCU-400 Series UV LED, 367Nm" 650 -100 50 H I L CNN "Description"
+F5 "1.1" 650 -200 50 H I L CNN "Height"
+F6 "OSA Opto" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "OCU-400-UE365-X-T" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "1736350P" 650 -700 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/1736350P" 650 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X A 1 0 0 200 R 50 50 0 0 U
+X K 2 0 -100 200 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library

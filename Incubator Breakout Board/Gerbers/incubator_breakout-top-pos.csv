@@ -1,0 +1,19 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,0.1 uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,161.798,-105.283,180,top
+C2,0.1 uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,148.717,-120.777,0,top
+C3,0.1 uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,160.782,-131.572,90,top
+C4,100uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,162.56,-111.125,180,top
+C5,100uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,148.082,-129.54,0,top
+C6,100uF,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,170.815,-118.364,0,top
+C10,100uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,165.735,-105.283,0,top
+C11,100uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,161.798,-103.251,180,top
+C12,100uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,165.735,-103.251,0,top
+J1,Conn_01x03_Female,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,156.845,-132.08,-90,top
+J2,Screw_Terminal_01x02,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,160.528,-124.079,-90,top
+J3,Conn_01x05_Female,JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal,166.116,-136.144,90,top
+J4,Conn_01x05_Female,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,166.624,-114.808,90,top
+J5,Conn_01x03_Female,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,157.861,-105.664,-90,top
+J6,Screw_Terminal_01x02,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,160.528,-115.443,-90,top
+Q1,IRF7832TRPBF,SOIC127P600X175-8N,168.783,-122.301,180,top
+R1,R,R_0402_1005Metric,162.052,-108.4834,180,top
+R2,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,167.014,-118.364,0,top

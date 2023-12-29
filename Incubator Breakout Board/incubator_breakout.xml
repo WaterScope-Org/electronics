@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Dropbox\Waterscope\PCB\Incubator PCB\incubator_sensor\incubator_breakout\incubator_breakout.sch</source>
+    <date>31/05/2021 14:29:58</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>incubator_breakout.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J2">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>604D62F8</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x05_Female</value>
+      <footprint>Connector_JST:JST_PH_S5B-PH-K_1x05_P2.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>604D64A4</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>604D6A7E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B4BC81</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B4CFF9</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x05_Female</value>
+      <footprint>Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B4D578</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>NTMS4807NR2G</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/NTMS4807N-D.PDF</datasheet>
+      <fields>
+        <field name="Arrow Part Number">NTMS4807NR2G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ntms4807nr2g/on-semiconductor</field>
+        <field name="Description">Power MOSFET</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">NTMS4807NR2G</field>
+        <field name="Mouser Part Number">863-NTMS4807NR2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTMS4807NR2G</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="NTMS4807NR2G" description="Power MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B4E344</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B50126</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B53908</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B54AD9</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B56117</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B5611D</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1 uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B566A0</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B566A6</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B6221A</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B6273A</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60B629BF</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Female">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="NTMS4807NR2G">
+      <description>Power MOSFET</description>
+      <docs>http://www.onsemi.com/pub/Collateral/NTMS4807N-D.PDF</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NTMS4807NR2G</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/NTMS4807N-D.PDF</field>
+        <field name="Description">Power MOSFET</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">NTMS4807NR2G</field>
+        <field name="Mouser Part Number">863-NTMS4807NR2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=863-NTMS4807NR2G</field>
+        <field name="Arrow Part Number">NTMS4807NR2G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/ntms4807nr2g/on-semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S_1" type="passive"/>
+        <pin num="2" name="S_2" type="passive"/>
+        <pin num="3" name="S_3" type="passive"/>
+        <pin num="4" name="G" type="passive"/>
+        <pin num="5" name="D_1" type="passive"/>
+        <pin num="6" name="D_2" type="passive"/>
+        <pin num="7" name="D_3" type="passive"/>
+        <pin num="8" name="D_4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>D:/Program Files/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="J6" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J4" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+    </net>
+    <net code="2" name="H_control">
+      <node ref="R1" pin="1"/>
+      <node ref="Q1" pin="4"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="3" name="H-">
+      <node ref="Q1" pin="7"/>
+      <node ref="Q1" pin="8"/>
+      <node ref="J5" pin="1"/>
+      <node ref="Q1" pin="5"/>
+      <node ref="Q1" pin="6"/>
+    </net>
+    <net code="4" name="+5V">
+      <node ref="J3" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="J6" pin="3"/>
+      <node ref="J2" pin="3"/>
+      <node ref="J4" pin="4"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="J5" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J3" pin="5"/>
+    </net>
+    <net code="5" name="K-">
+      <node ref="J1" pin="1"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="6" name="Temp">
+      <node ref="J3" pin="4"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="7" name="Temp2">
+      <node ref="J4" pin="3"/>
+      <node ref="J6" pin="2"/>
+    </net>
+  </nets>
+</export>

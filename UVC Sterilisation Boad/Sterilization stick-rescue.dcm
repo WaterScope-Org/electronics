@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FP6291-SamacSys_Parts
+F https://www.sunrom.com/get/212221
+$ENDCMP
+#
+$CMP SMMS1040-3R3M-SamacSys_Parts
+F https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf
+$ENDCMP
+#
+#End Doc Library

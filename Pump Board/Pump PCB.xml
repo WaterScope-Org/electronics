@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Dropbox\Waterscope\PCB\Pump PCB\Pump PCB.sch</source>
+    <date>06/07/2021 09:16:46</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Pump PCB.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>FP6291</value>
+      <footprint>SOT95P280X145-6N</footprint>
+      <datasheet>https://www.sunrom.com/get/212221</datasheet>
+      <fields>
+        <field name="Description">sot23-6l</field>
+        <field name="Height">1.45</field>
+        <field name="LCSC Part">C18701</field>
+        <field name="Manufacturer_Name">Macroblock</field>
+        <field name="Manufacturer_Part_Number">FP6291</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="FP6291" description="sot23-6l"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607429E4</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60743D59</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60744562</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607460A5</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>SMMS1040-3R3M</value>
+      <footprint>INDPM115100X400N</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</datasheet>
+      <fields>
+        <field name="Description">MOLDING POWER INDUCTOR</field>
+        <field name="Height">4</field>
+        <field name="LCSC Part"> C149592</field>
+        <field name="Manufacturer_Name">SXN(Shun Xiang Nuo Elec)</field>
+        <field name="Manufacturer_Part_Number">SMMS1040-3R3M</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SMMS1040-3R3M" description="MOLDING POWER INDUCTOR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6074BE45</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>190K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C22932</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6074E848</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6074F4A3</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>SMA340A</datasheet>
+      <fields>
+        <field name="LCSC Part"> C383313</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607502FB</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6075529D</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60755A8C</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607607D2</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607E2B77</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607E2B7E</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607E81E3</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607E81EA</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607F8458</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>607F845F</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DB7E4E</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DB8067</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DB8235</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.7mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60D64457</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.7mm_Pad</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60D64724</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>TYPE-C-31-G-06</value>
+      <footprint>TYPEC31G06</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2011131134_Korean-Hroparts-Elec-TYPE-C-31-G-06_C283539.pdf</datasheet>
+      <fields>
+        <field name="Description">USB Connectors SMD RoHS</field>
+        <field name="Height">6.93</field>
+        <field name="Manufacturer_Name">Korean Hroparts Elec</field>
+        <field name="Manufacturer_Part_Number">TYPE-C-31-G-06</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="TYPE-C-31-G-06" description="USB Connectors SMD RoHS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DD9806</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DDD2B6</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC Part">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60DDE055</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="FP6291">
+      <description>sot23-6l</description>
+      <docs>https://www.sunrom.com/get/212221</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">FP6291</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://www.sunrom.com/get/212221</field>
+        <field name="Description">sot23-6l</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Macroblock</field>
+        <field name="Manufacturer_Part_Number">FP6291</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LX" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="FB" type="passive"/>
+        <pin num="4" name="EN" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="OC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SMMS1040-3R3M">
+      <description>MOLDING POWER INDUCTOR</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SMMS1040-3R3M</field>
+        <field name="Footprint">INDPM115100X400N</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</field>
+        <field name="Description">MOLDING POWER INDUCTOR</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">SXN(Shun Xiang Nuo Elec)</field>
+        <field name="Manufacturer_Part_Number">SMMS1040-3R3M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="TYPE-C-31-G-06">
+      <description>USB Connectors SMD RoHS</description>
+      <docs>https://datasheet.lcsc.com/lcsc/2011131134_Korean-Hroparts-Elec-TYPE-C-31-G-06_C283539.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-G-06</field>
+        <field name="Footprint">TYPEC31G06</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2011131134_Korean-Hroparts-Elec-TYPE-C-31-G-06_C283539.pdf</field>
+        <field name="Description">USB Connectors SMD RoHS</field>
+        <field name="Height">6.93</field>
+        <field name="Manufacturer_Name">Korean Hroparts Elec</field>
+        <field name="Manufacturer_Part_Number">TYPE-C-31-G-06</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND_1" type="passive"/>
+        <pin num="A4" name="VBUS_1" type="passive"/>
+        <pin num="A5" name="NC_1" type="passive"/>
+        <pin num="A6" name="D-_1" type="passive"/>
+        <pin num="A7" name="D+_1" type="passive"/>
+        <pin num="A8" name="NC_2" type="passive"/>
+        <pin num="A9" name="VBUS_2" type="passive"/>
+        <pin num="A12" name="GND_2" type="passive"/>
+        <pin num="B1" name="GND_3" type="passive"/>
+        <pin num="B4" name="VBUS_3" type="passive"/>
+        <pin num="B5" name="NC_3" type="passive"/>
+        <pin num="B6" name="D+_2" type="passive"/>
+        <pin num="B7" name="D-_2" type="passive"/>
+        <pin num="B8" name="NC_4" type="passive"/>
+        <pin num="B9" name="VBUS_4" type="passive"/>
+        <pin num="B12" name="GND_4" type="passive"/>
+        <pin num="MP1" name="MH1" type="passive"/>
+        <pin num="MP2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>D:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>D:/Program Files/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="12V">
+      <node ref="C3" pin="1"/>
+      <node ref="H5" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="D1" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="R1" pin="2"/>
+      <node ref="J1" pin="MP2"/>
+      <node ref="J1" pin="MP1"/>
+      <node ref="J1" pin="B12"/>
+      <node ref="J1" pin="B1"/>
+      <node ref="J1" pin="A12"/>
+      <node ref="J1" pin="A1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="H6" pin="1"/>
+    </net>
+    <net code="3" name="5V">
+      <node ref="C10" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="J1" pin="B9"/>
+      <node ref="J1" pin="B4"/>
+      <node ref="J1" pin="A9"/>
+      <node ref="J1" pin="A4"/>
+      <node ref="C1" pin="1"/>
+      <node ref="L1" pin="1"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="4" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="5" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="6" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="A6"/>
+    </net>
+    <net code="7" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="A7"/>
+    </net>
+    <net code="8" name="Net-(J1-PadA8)">
+      <node ref="J1" pin="A8"/>
+    </net>
+    <net code="9" name="Net-(J1-PadB6)">
+      <node ref="J1" pin="B6"/>
+    </net>
+    <net code="10" name="Net-(J1-PadB7)">
+      <node ref="J1" pin="B7"/>
+    </net>
+    <net code="11" name="Net-(J1-PadB8)">
+      <node ref="J1" pin="B8"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="L1" pin="2"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="13" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+  </nets>
+</export>

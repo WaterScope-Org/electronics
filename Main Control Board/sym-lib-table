@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name surface_mount_v2-rescue)(type Legacy)(uri ${KIPRJMOD}/surface_mount_v2-rescue.lib)(options "")(descr ""))
+  (lib (name surface_mount_v4-rescue)(type Legacy)(uri ${KIPRJMOD}/surface_mount_v4-rescue.lib)(options "")(descr ""))
+)

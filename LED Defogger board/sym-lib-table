@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name led_defogger_PCB_with_UV-rescue)(type Legacy)(uri ${KIPRJMOD}/led_defogger_PCB_with_UV-rescue.lib)(options "")(descr ""))
+  (lib (name led_defogger_PCB_with_UV_2022-rescue)(type Legacy)(uri ${KIPRJMOD}/led_defogger_PCB_with_UV_2022-rescue.lib)(options "")(descr ""))
+)

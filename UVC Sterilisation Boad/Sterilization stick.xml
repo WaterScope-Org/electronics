@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>I:\Shared drives\Hardware\E - PCB Designs\Sterilization stick\Sterilization stick.kicad_sch</source>
+    <date>25/02/2023 21:32:06</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Sterilization stick.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060744562</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060743d59</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607607d2</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006075529d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060755a8c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e9ee4</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e2b7e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e9edd</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e2b77</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e81ea</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607e81e3</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607f8458</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607f845f</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fa99a</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fa9a1</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>20uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC Part">C45783</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value="C45783"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fd125</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC Part" value=" C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607fd12c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>SMA340A</datasheet>
+      <fields>
+        <field name="LCSC Part"> C383313</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC Part" value=" C383313"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607502fb</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060db8235</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060db8067</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060db7e4e</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060db0c0c</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>FP6291</value>
+      <footprint>SOT95P280X145-6N</footprint>
+      <datasheet>https://www.sunrom.com/get/212221</datasheet>
+      <fields>
+        <field name="Description">sot23-6l</field>
+        <field name="Height">1.45</field>
+        <field name="LCSC Part">C18701</field>
+        <field name="Manufacturer_Name">Macroblock</field>
+        <field name="Manufacturer_Part_Number">FP6291</field>
+      </fields>
+      <libsource lib="Sterilization-stick-rescue" part="FP6291-SamacSys_Parts" description=""/>
+      <property name="Description" value="sot23-6l"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="Macroblock"/>
+      <property name="Manufacturer_Part_Number" value="FP6291"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C18701"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607429e4</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>SMMS1040-3R3M</value>
+      <footprint>INDPM115100X400N</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</datasheet>
+      <fields>
+        <field name="Description">MOLDING POWER INDUCTOR</field>
+        <field name="Height">4</field>
+        <field name="LCSC Part"> C149592</field>
+        <field name="Manufacturer_Name">SXN(Shun Xiang Nuo Elec)</field>
+        <field name="Manufacturer_Part_Number">SMMS1040-3R3M</field>
+      </fields>
+      <libsource lib="Sterilization-stick-rescue" part="SMMS1040-3R3M-SamacSys_Parts" description=""/>
+      <property name="Description" value="MOLDING POWER INDUCTOR"/>
+      <property name="Height" value="4"/>
+      <property name="Manufacturer_Name" value="SXN(Shun Xiang Nuo Elec)"/>
+      <property name="Manufacturer_Part_Number" value="SMMS1040-3R3M"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value=" C149592"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006074be45</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7803c0d5-76bc-43ff-a532-25506ae3413b</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bf6d8f2-aebc-4d3e-b159-67f037f66f06</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060de3162</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060deaada</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0e4c2f8-8cb6-4913-9683-edc81bc98f56</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>416f6491-9f2d-4e8a-9d50-98444691f106</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e23cd7</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7689a54-dd31-46f6-9952-5ebabb9c51ee</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b516bde7-accd-4557-be0f-ab91b8b960d7</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>F.35.00041</value>
+      <footprint>F3500041</footprint>
+      <datasheet>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="LCSC Part">C909692</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="F.35.00041" description="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Description" value="LED Dual-Band Deep Ultraviolet 5 Pads"/>
+      <property name="Height" value="1.56"/>
+      <property name="Manufacturer_Name" value="TUOZHAN"/>
+      <property name="Manufacturer_Part_Number" value="F.35.00041"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="LCSC Part" value="C909692"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>207651a6-6f54-4178-baf2-c54a698a0eb1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607460a5</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5.1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060757ca7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part">C25905</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value="C25905"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006075839a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>190K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C22932</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C22932"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006074e848</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C25744</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C25744"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006074f4a3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>37.4</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part">C247280</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value="C247280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000607697cb</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1478bbf9-51fe-45f9-9364-a62d9e359765</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e8711ee-f65a-4355-8de1-23a641b03407</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3777640-1f15-447b-9302-6d50aab516ec</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060765733</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>331ff16a-0a2b-408d-8b1c-3fb7a30ea31b</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060d81e72</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060de3169</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060deaae1</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>37.4</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part">C247280</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value="C247280"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e23cf4</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e23cac</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC Part"> C17901</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC Part" value=" C17901"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e23cde</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>Type-C:HRO-TYPE-C-31-M-12-HandSoldering</footprint>
+      <libsource lib="Sterilization-stick-rescue" part="HRO-TYPE-C-31-M-12-Type-C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Sterilization stick.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060741c29</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="F.35.00041">
+      <description>LED Dual-Band Deep Ultraviolet 5 Pads</description>
+      <docs>https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">F.35.00041</field>
+        <field name="Footprint">F3500041</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf</field>
+        <field name="Description">LED Dual-Band Deep Ultraviolet 5 Pads</field>
+        <field name="Height">1.56</field>
+        <field name="Manufacturer_Name">TUOZHAN</field>
+        <field name="Manufacturer_Part_Number">F.35.00041</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UVA+" type="passive"/>
+        <pin num="2" name="UVA-" type="passive"/>
+        <pin num="3" name="UVC+" type="passive"/>
+        <pin num="4" name="UVC-" type="passive"/>
+        <pin num="5" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sterilization-stick-rescue" part="FP6291-SamacSys_Parts">
+      <docs>https://www.sunrom.com/get/212221</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">FP6291-SamacSys_Parts</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://www.sunrom.com/get/212221</field>
+        <field name="Description">sot23-6l</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Macroblock</field>
+        <field name="Manufacturer_Part_Number">FP6291</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LX" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="FB" type="passive"/>
+        <pin num="4" name="EN" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="OC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sterilization-stick-rescue" part="HRO-TYPE-C-31-M-12-Type-C">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12-Type-C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sterilization-stick-rescue" part="SMMS1040-3R3M-SamacSys_Parts">
+      <docs>https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SMMS1040-3R3M-SamacSys_Parts</field>
+        <field name="Footprint">INDPM115100X400N</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/szlcsc/1810010909_SXN-Shun-Xiang-Nuo-Elec-SMMS1040-3R3M_C149592.pdf</field>
+        <field name="Description">MOLDING POWER INDUCTOR</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">SXN(Shun Xiang Nuo Elec)</field>
+        <field name="Manufacturer_Part_Number">SMMS1040-3R3M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/sammy/OneDrive/Desktop/Component library/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Sterilization-stick-rescue">
+      <uri>I:\Shared drives\Hardware\E - PCB Designs\Sterilization stick/Sterilization stick-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="EN" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VCC" pintype="passive"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="11" pinfunction="VBUS" pintype="input"/>
+      <node ref="USB1" pin="2" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="2" name="12V">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="LED1" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED1" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED1" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED10" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED10" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED10" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED2" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED2" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED2" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED3" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED3" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED3" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED4" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED4" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED4" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED5" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED5" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED5" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED6" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED6" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED6" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED7" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED7" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED7" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED8" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED8" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED8" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="LED9" pin="2" pinfunction="UVA-" pintype="passive"/>
+      <node ref="LED9" pin="4" pinfunction="UVC-" pintype="passive"/>
+      <node ref="LED9" pin="5" pinfunction="EP" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="12" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="13" pinfunction="SHIELD" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="LX" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="FB" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="OC" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(LED3-Pad3)">
+      <node ref="LED3" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(LED4-Pad3)">
+      <node ref="LED4" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(LED7-Pad1)">
+      <node ref="LED7" pin="1" pinfunction="UVA+" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(LED7-Pad3)">
+      <node ref="LED7" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(LED8-Pad3)">
+      <node ref="LED8" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(LED9-Pad3)">
+      <node ref="LED9" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(LED10-Pad3)">
+      <node ref="LED10" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="CC1" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="10" pinfunction="CC2" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(R6-Pad2)">
+      <node ref="LED2" pin="1" pinfunction="UVA+" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(R7-Pad2)">
+      <node ref="LED5" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(R10-Pad2)">
+      <node ref="LED2" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(R27-Pad2)">
+      <node ref="LED1" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R34-Pad2)">
+      <node ref="LED6" pin="3" pinfunction="UVC+" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(LED3-Pad1)">
+      <node ref="LED3" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(LED4-Pad1)">
+      <node ref="LED4" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(LED5-Pad1)">
+      <node ref="LED5" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(LED6-Pad1)">
+      <node ref="LED6" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(LED8-Pad1)">
+      <node ref="LED8" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(LED9-Pad1)">
+      <node ref="LED9" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(LED10-Pad1)">
+      <node ref="LED10" pin="1" pinfunction="UVA+" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(USB1-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="SBU2" pintype="input"/>
+    </net>
+    <net code="30" name="unconnected-(USB1-Pad5)">
+      <node ref="USB1" pin="5" pinfunction="DN2" pintype="input"/>
+    </net>
+    <net code="31" name="unconnected-(USB1-Pad6)">
+      <node ref="USB1" pin="6" pinfunction="DP1" pintype="input"/>
+    </net>
+    <net code="32" name="unconnected-(USB1-Pad7)">
+      <node ref="USB1" pin="7" pinfunction="DN1" pintype="input"/>
+    </net>
+    <net code="33" name="unconnected-(USB1-Pad8)">
+      <node ref="USB1" pin="8" pinfunction="DP2" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(USB1-Pad9)">
+      <node ref="USB1" pin="9" pinfunction="SBU1" pintype="input"/>
+    </net>
+  </nets>
+</export>
